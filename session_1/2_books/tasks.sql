@@ -10,4 +10,5 @@
 
 -- write your sql code here
 
-SELECT * from books;
+SELECT * from books
+WHERE rating == 4.0;
