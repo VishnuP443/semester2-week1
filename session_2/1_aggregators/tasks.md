@@ -18,6 +18,7 @@
 15. Find continents that have a total population greater than 500 million, but only include countries where the birthrate is below 20, order the results by total population (largest first), and limit the output to 3 results.
 
 
+
 ## Diagram
 
 ![Database diagram of the Countries table.](database_diagram.png)
