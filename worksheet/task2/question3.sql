@@ -1,3 +1,4 @@
+-- SID(201923075) Name: Vishnu Pandaraparambath
 -- For each department, calculate the number of enrolments in its courses.
 -- Expected Columns:
 -- DepartmentName, TotalEnrolments
